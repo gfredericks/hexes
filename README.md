@@ -1,6 +1,8 @@
 # hexes
 
-Spec for encoding binary data in human-language words.
+Spec for encoding binary data in human-language words. The main idea is
+to create sets of 256 memorable words to make binary data easier for
+humans to handle.
 
 ## What is this serious?
 
