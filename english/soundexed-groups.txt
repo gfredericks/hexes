@@ -1,0 +1,2755 @@
+alga A420
+aqua A200
+area A600
+aria A600
+aura A600
+
+abed A130
+aced A230
+acid A230
+aged A230
+amid A530
+aped A130
+arid A630
+avid A130
+awed A300
+axed A230
+
+able A140
+ache A200
+acme A250
+acne A250
+acre A260
+adze A320
+ague A200
+aide A300
+aloe A400
+ante A530
+apse A120
+axle A240
+
+agog A220
+
+ankh A520
+arch A620
+
+anti A530
+
+amok A520
+
+anal A540
+
+ahem A500
+alum A450
+atom A350
+
+aeon A500
+akin A250
+amen A550
+anon A550
+axon A250
+
+also A420
+alto A430
+ammo A500
+auto A300
+
+atop A310
+
+afar A160
+agar A260
+ajar A260
+aver A160
+
+aces A220
+acts A232
+adds A320
+ages A220
+ahas A200
+aids A320
+ails A420
+aims A520
+airs A620
+alas A420
+albs A412
+ales A420
+alms A452
+amps A512
+ands A532
+ants A532
+anus A520
+apes A120
+arcs A620
+ares A620
+arks A620
+arms A652
+arts A632
+asks A200
+asps A212
+ates A320
+auks A200
+awes A200
+awls A420
+axes A220
+axis A220
+ayes A20
+
+abet A130
+abut A130
+alit A430
+aunt A530
+
+anew A500
+avow A100
+
+apex A120
+
+ably A14
+achy A20
+aery A60
+ahoy A00
+airy A60
+ally A40
+army A65
+arty A63
+ashy A20
+away A00
+awry A60
+
+beta B300
+bola B400
+
+barb B610
+blab B410
+blob B410
+bomb B510
+boob B100
+bulb B410
+
+bloc B420
+
+bald B430
+band B530
+bard B630
+baud B300
+bead B300
+bend B530
+bind B530
+bird B630
+bled B430
+bold B430
+bond B530
+brad B630
+bred B630
+
+babe B100
+bade B300
+bake B200
+bale B400
+bane B500
+bare B600
+base B200
+bate B300
+bide B300
+bike B200
+bile B400
+bite B300
+blue B400
+bode B300
+bole B400
+bone B500
+bore B600
+byte B30
+
+barf B610
+beef B100
+buff B100
+
+bang B520
+berg B620
+bong B520
+brag B620
+brig B620
+bung B520
+burg B620
+
+bash B200
+bath B300
+blah B400
+bosh B200
+both B300
+bush B200
+
+bani B500
+
+back B200
+balk B420
+bank B520
+bark B620
+bask B200
+beak B200
+beck B200
+bilk B420
+book B200
+buck B200
+bulk B420
+bunk B520
+
+bail B400
+ball B400
+bawl B400
+bell B400
+bill B400
+boil B400
+boll B400
+bowl B400
+bull B400
+
+balm B450
+beam B500
+berm B650
+boom B500
+brim B650
+
+barn B650
+bean B500
+been B500
+boon B500
+born B650
+bran B650
+burn B650
+
+bozo B200
+
+beep B100
+blip B410
+bump B510
+burp B610
+
+bear B600
+beer B600
+bier B600
+blur B460
+boar B600
+boor B600
+burr B600
+
+baas B200
+bags B200
+bahs B200
+bans B520
+bars B620
+bass B200
+bats B320
+bays B20
+beds B320
+bees B200
+begs B200
+bets B320
+bias B200
+bibs B120
+bids B320
+bins B520
+bits B320
+boas B200
+bobs B120
+bogs B200
+boos B200
+bops B120
+boss B200
+bows B200
+boys B20
+bras B620
+buds B320
+bugs B200
+bums B520
+buns B520
+burs B620
+buss B200
+buts B320
+buys B20
+byes B20
+
+bait B300
+bast B230
+beat B300
+beet B300
+belt B430
+bent B530
+best B230
+blot B430
+boat B300
+bolt B430
+boot B300
+bout B300
+brat B630
+bunt B530
+bust B230
+butt B300
+
+beau B000
+
+blew B400
+blow B400
+brew B600
+brow B600
+
+baby B10
+bevy B10
+body B30
+bogy B20
+bony B50
+bray B60
+buoy B00
+bury B60
+busy B20
+
+buzz B200
+
+coda C300
+cola C400
+coma C500
+
+club C410
+comb C510
+crab C610
+crib C610
+curb C610
+
+chic C200
+
+card C630
+chid C300
+clad C430
+clod C430
+coed C300
+cold C430
+cord C630
+crud C630
+cued C300
+curd C630
+
+cage C200
+cake C200
+came C500
+cane C500
+cape C100
+care C600
+case C200
+cave C100
+cede C300
+cite C300
+clue C400
+code C300
+coke C200
+come C500
+cone C500
+cope C100
+core C600
+cote C300
+cove C100
+cube C100
+cure C600
+cute C300
+
+calf C410
+chef C100
+clef C410
+coif C100
+cuff C100
+
+chug C200
+clog C420
+crag C620
+
+cash C200
+
+calk C420
+cask C200
+cock C200
+conk C520
+cook C200
+cork C620
+
+call C400
+cell C400
+coal C400
+coil C400
+cool C400
+cowl C400
+cull C400
+curl C640
+
+calm C450
+chum C500
+clam C450
+corm C650
+cram C650
+
+chin C500
+clan C450
+coin C500
+coon C500
+corn C650
+
+camp C510
+carp C610
+chap C100
+chip C100
+chop C100
+clap C410
+clip C410
+clop C410
+coop C100
+coup C100
+crap C610
+crop C610
+cusp C210
+
+char C600
+czar C260
+
+cabs C120
+cads C320
+cams C520
+cans C520
+caps C120
+cars C620
+cats C320
+caws C200
+cobs C120
+cods C320
+cogs C200
+cols C420
+cons C520
+coos C200
+cops C120
+cots C320
+cows C200
+cubs C120
+cuds C320
+cues C200
+cums C520
+cups C120
+curs C620
+cuss C200
+cuts C320
+
+cant C530
+cart C630
+cast C230
+cent C530
+chat C300
+chit C300
+clot C430
+coat C300
+colt C430
+coot C300
+cost C230
+cult C430
+cunt C530
+curt C630
+cyst C23
+
+chew C000
+chow C000
+claw C400
+clew C400
+craw C600
+crew C600
+crow C600
+
+coax C200
+crux C620
+
+cagy C20
+city C30
+clay C40
+cloy C40
+copy C10
+cosy C20
+cozy C20
+
+data D300
+diva D100
+
+daub D100
+drab D610
+drub D610
+dumb D510
+
+disc D200
+
+dead D300
+deed D300
+died D300
+dyed D30
+
+dale D400
+dame D500
+dare D600
+date D300
+daze D200
+dice D200
+dike D200
+dime D500
+dine D500
+dire D600
+dive D100
+dole D400
+dome D500
+done D500
+dope D100
+dose D200
+dote D300
+dove D100
+doze D200
+dude D300
+duke D200
+dune D500
+dupe D100
+dyke D20
+
+deaf D100
+doff D100
+duff D100
+
+ding D520
+drag D620
+drug D620
+dung D520
+
+dash D200
+dish D200
+doth D300
+
+deli D400
+
+dank D520
+dark D620
+deck D200
+desk D200
+dick D200
+dirk D620
+disk D200
+dock D200
+dork D620
+duck D200
+dunk D520
+dusk D200
+
+deal D400
+dell D400
+dial D400
+dill D400
+doll D400
+dual D400
+duel D400
+dull D400
+
+deem D500
+doom D500
+dorm D650
+dram D650
+drum D650
+
+damn D500
+darn D650
+dawn D500
+dean D500
+down D500
+
+dado D300
+demo D500
+dodo D300
+
+damp D510
+deep D100
+drip D610
+drop D610
+dump D510
+
+dear D600
+deer D600
+doer D600
+door D600
+dour D600
+dyer D60
+
+dabs D120
+dads D320
+dais D200
+dams D520
+days D20
+debs D120
+dens D520
+dies D200
+digs D200
+dims D520
+dins D520
+dips D120
+diss D200
+docs D200
+does D200
+dogs D200
+dons D520
+dots D320
+drys D62
+dubs D120
+duds D320
+dues D200
+duns D520
+duos D200
+dyes D20
+
+daft D130
+dart D630
+debt D130
+deft D130
+dent D530
+diet D300
+dint D530
+dirt D630
+dolt D430
+duct D230
+duet D300
+dust D230
+
+draw D600
+drew D600
+
+defy D10
+deny D50
+dewy D000
+dogy D20
+dopy D10
+dory D60
+dray D60
+duly D40
+duty D30
+
+epic E120
+exec E220
+
+eked E230
+eyed E30
+
+ease E200
+eave E100
+edge E320
+else E420
+
+each E200
+etch E320
+
+earl E640
+evil E140
+
+exam E250
+
+earn E650
+even E150
+
+echo E200
+ergo E620
+euro E600
+expo E210
+
+emir E560
+ever E160
+ewer E600
+
+ears E620
+eats E320
+ebbs E120
+eels E420
+eggs E200
+egos E220
+ekes E220
+elks E420
+ells E420
+elms E452
+emus E520
+ends E532
+eons E520
+eras E620
+ergs E620
+errs E620
+eves E120
+ewes E200
+exes E220
+eyes E20
+
+east E230
+edit E330
+emit E530
+exit E230
+
+ecru E260
+
+easy E20
+eddy E30
+edgy E32
+eery E60
+envy E51
+espy E21
+eyry E6
+
+feta F300
+flea F400
+fora F600
+
+flab F410
+flub F410
+
+feed F300
+fend F530
+feud F300
+find F530
+fled F430
+fold F430
+fond F530
+food F300
+ford F630
+fund F530
+
+face F200
+fade F300
+fake F200
+fame F500
+fare F600
+fate F300
+faze F200
+fife F100
+file F400
+fine F500
+fire F600
+five F100
+flee F400
+floe F400
+flue F400
+fore F600
+free F600
+fume F500
+fuse F200
+fuze F200
+
+fief F100
+
+fang F520
+flag F420
+flog F420
+frog F620
+
+fish F200
+
+foci F200
+
+fink F520
+flak F420
+folk F420
+fork F620
+fuck F200
+funk F520
+
+fail F400
+fall F400
+feel F400
+fell F400
+fill F400
+foal F400
+foil F400
+fool F400
+foul F400
+fowl F400
+fuel F400
+full F400
+furl F640
+
+farm F650
+film F450
+firm F650
+foam F500
+form F650
+from F650
+
+fain F500
+faun F500
+fawn F500
+fern F650
+flan F450
+
+flap F410
+flip F410
+flop F410
+
+fair F600
+fear F600
+four F600
+
+fads F320
+fags F200
+fans F520
+fats F320
+feds F320
+fees F200
+fems F520
+fens F520
+fibs F120
+fies F200
+figs F200
+fins F520
+firs F620
+fits F320
+fobs F120
+foes F200
+fogs F200
+fops F120
+furs F620
+fuss F200
+
+fact F230
+fart F630
+fast F230
+feat F300
+feet F300
+felt F430
+fest F230
+fiat F300
+fist F230
+flat F430
+flit F430
+font F530
+foot F300
+fort F630
+frat F630
+fret F630
+
+flaw F400
+flew F400
+flow F400
+
+flax F420
+flex F420
+flux F420
+
+flay F40
+fogy F20
+foxy F20
+fray F60
+fury F60
+
+fizz F200
+friz F620
+futz F320
+fuzz F200
+
+gala G400
+
+garb G610
+glib G410
+glob G410
+grab G610
+grub G610
+
+geed G300
+geld G430
+gild G430
+gird G630
+glad G430
+goad G300
+gold G430
+good G300
+grad G630
+grid G630
+
+gage G200
+gale G400
+game G500
+gape G100
+gate G300
+gave G100
+gaze G200
+gene G500
+gibe G100
+give G100
+glee G400
+glue G400
+gone G500
+gore G600
+gybe G10
+
+gaff G100
+golf G410
+goof G100
+guff G100
+gulf G410
+
+gang G520
+gong G520
+grog G620
+
+gash G200
+gosh G200
+gush G200
+
+gawk G200
+geek G200
+gook G200
+gunk G520
+
+gall G400
+gaol G400
+gill G400
+girl G640
+goal G400
+gull G400
+
+germ G650
+glum G450
+gram G650
+grim G650
+
+gain G500
+glen G450
+goon G500
+gown G500
+grin G650
+
+gyro G60
+
+gasp G210
+glop G410
+goop G100
+grip G610
+gulp G410
+
+gear G600
+
+gabs G120
+gads G320
+gags G200
+gals G420
+gaps G120
+gays G20
+gees G200
+gels G420
+gems G520
+gets G320
+gigs G200
+gins G520
+gnus G520
+gobs G120
+gods G320
+goes G200
+govs G120
+gums G520
+guns G520
+guts G320
+guys G20
+gyms G52
+gyps G12
+
+gait G300
+gelt G430
+gent G530
+gift G130
+gilt G430
+girt G630
+gist G230
+glut G430
+gnat G530
+goat G300
+gout G300
+grit G630
+gust G230
+
+guru G600
+
+glow G400
+gnaw G500
+grew G600
+grow G600
+
+gamy G50
+gory G60
+gray G60
+grey G60
+
+hula H400
+
+herb H610
+
+hand H530
+hard H630
+head H300
+heed H300
+held H430
+herd H630
+hied H300
+hind H530
+hoed H300
+hold H430
+hood H300
+hued H300
+
+hake H200
+hale H400
+hare H600
+hate H300
+have H100
+haze H200
+here H600
+hide H300
+hike H200
+hire H600
+hive H100
+hole H400
+home H500
+hone H500
+hope H100
+hose H200
+hove H100
+huge H200
+hype H10
+
+half H410
+hoof H100
+huff H100
+
+hang H520
+hung H520
+
+hash H200
+hath H300
+high H200
+hush H200
+
+hack H200
+hank H520
+hark H620
+hawk H200
+heck H200
+hick H200
+hock H200
+honk H520
+hook H200
+hulk H420
+hunk H520
+husk H200
+
+hail H400
+hall H400
+haul H400
+heal H400
+heel H400
+hell H400
+hill H400
+howl H400
+hull H400
+hurl H640
+
+harm H650
+helm H450
+
+hewn H500
+horn H650
+hymn H50
+
+halo H400
+hero H600
+hobo H100
+hypo H10
+
+harp H610
+hasp H210
+heap H100
+help H410
+hemp H510
+hoop H100
+hump H510
+
+hair H600
+hear H600
+heir H600
+hour H600
+
+hags H200
+hahs H200
+hams H520
+hats H320
+haws H200
+hays H20
+hems H520
+hens H520
+heps H120
+hers H620
+hews H200
+hies H200
+hims H520
+hips H120
+hiss H200
+hits H320
+hobs H120
+hods H320
+hoes H200
+hogs H200
+hops H120
+hows H200
+hubs H120
+hues H200
+hugs H200
+huhs H200
+hums H520
+huts H320
+
+haft H130
+halt H430
+hart H630
+heat H300
+heft H130
+hilt H430
+hint H530
+hoot H300
+host H230
+hunt H530
+hurt H630
+
+hoax H200
+
+hazy H20
+holy H40
+homy H50
+
+idea I300
+iota I300
+
+iamb I510
+
+iced I230
+ired I630
+
+idle I340
+isle I240
+
+inch I520
+itch I320
+
+inti I530
+
+idol I340
+idyl I34
+
+imam I550
+item I350
+
+icon I250
+iron I650
+
+info I510
+into I530
+
+ibis I120
+ices I220
+ides I320
+ilks I420
+ills I420
+imps I512
+inks I520
+inns I520
+ions I520
+ires I620
+iris I620
+irks I620
+isms I252
+
+ibex I120
+
+icky I20
+idly I34
+iffy I10
+inky I52
+
+jamb J510
+
+jade J300
+jape J100
+jibe J100
+jive J100
+joke J200
+jute J300
+
+josh J200
+
+jack J200
+jerk J620
+jock J200
+junk J520
+
+jail J400
+jell J400
+jowl J400
+
+jinn J500
+john J500
+join J500
+
+judo J300
+
+jeep J100
+jump J510
+
+jeer J600
+
+jabs J120
+jags J200
+jams J520
+jars J620
+jaws J200
+jays J20
+jets J320
+jibs J120
+jigs J200
+jobs J120
+jogs J200
+jots J320
+joys J20
+jugs J200
+juts J320
+
+jest J230
+jilt J430
+jolt J430
+just J230
+
+jinx J520
+
+jury J60
+
+jazz J200
+jeez J200
+
+knob K510
+
+kind K530
+
+kale K400
+kite K300
+knee K500
+
+king K520
+
+kith K300
+
+kiwi K000
+
+kick K200
+kink K520
+kirk K620
+kook K200
+
+keel K400
+kill K400
+
+keen K500
+khan K500
+kiln K450
+
+kilo K400
+
+keep K100
+kelp K410
+
+kegs K200
+kens K520
+keys K20
+kids K320
+kins K520
+kiss K200
+kits K320
+
+kept K130
+kilt K430
+knit K530
+knot K530
+
+knew K500
+know K500
+
+lama L500
+lava L100
+lira L600
+
+lamb L510
+limb L510
+
+laid L300
+land L530
+lard L630
+laud L300
+lead L300
+lend L530
+lewd L300
+lied L300
+load L300
+lord L630
+loud L300
+
+lace L200
+lade L300
+lake L200
+lame L500
+lane L500
+late L300
+laze L200
+lice L200
+life L100
+like L200
+lime L500
+line L500
+lire L600
+lite L300
+live L100
+lobe L100
+lode L300
+loge L200
+lone L500
+lope L100
+lore L600
+lose L200
+love L100
+lube L100
+lure L600
+lute L300
+lyre L60
+
+leaf L100
+lief L100
+loaf L100
+
+long L520
+lung L520
+
+lash L200
+lath L300
+loch L200
+loth L300
+lush L200
+
+loci L200
+
+lack L200
+lank L520
+lark L620
+leak L200
+leek L200
+lick L200
+link L520
+lock L200
+look L200
+luck L200
+lurk L620
+
+loll L400
+lull L400
+
+loam L500
+loom L500
+
+lain L500
+lawn L500
+lean L500
+lien L500
+limn L500
+lion L500
+loan L500
+loin L500
+loon L500
+lorn L650
+
+limo L500
+loco L200
+logo L200
+
+lamp L510
+leap L100
+limp L510
+lisp L210
+loop L100
+lump L510
+
+lair L600
+leer L600
+liar L600
+
+labs L120
+lads L320
+lags L200
+lams L520
+laps L120
+lass L200
+lats L320
+laws L200
+lays L20
+leas L200
+lees L200
+legs L200
+leis L200
+lens L520
+less L200
+lets L320
+libs L120
+lids L320
+lies L200
+lips L120
+lobs L120
+logs L200
+lops L120
+loss L200
+lots L320
+lows L200
+lugs L200
+
+last L230
+left L130
+lent L530
+lept L130
+lest L230
+lift L130
+lilt L430
+lint L530
+list L230
+loft L130
+loot L300
+lost L230
+lout L300
+lust L230
+
+lieu L000
+luau L000
+
+lynx L52
+
+lacy L20
+lady L30
+lazy L20
+levy L10
+lily L40
+limy L50
+
+mama M500
+mesa M200
+mica M200
+myna M50
+
+maid M300
+mead M300
+meld M430
+mend M530
+mild M430
+mind M530
+mold M430
+mood M300
+
+mace M200
+made M300
+make M200
+male M400
+mane M500
+mare M600
+mate M300
+maze M200
+mere M600
+mete M300
+mice M200
+mike M200
+mile M400
+mime M500
+mine M500
+mire M600
+mite M300
+mode M300
+mole M400
+mope M100
+more M600
+mote M300
+move M100
+mule M400
+muse M200
+mute M300
+
+miff M100
+muff M100
+
+mash M200
+math M300
+mesh M200
+moth M300
+much M200
+mush M200
+myth M30
+
+mini M500
+
+mark M620
+mask M200
+meek M200
+milk M420
+mink M520
+mock M200
+monk M520
+muck M200
+murk M620
+musk M200
+
+mail M400
+mall M400
+maul M400
+meal M400
+mewl M400
+mill M400
+moll M400
+mull M400
+
+maim M500
+
+main M500
+mean M500
+mien M500
+moan M500
+moon M500
+morn M650
+mown M500
+
+mayo M00
+memo M500
+mono M500
+
+moor M600
+
+mans M520
+maps M120
+mars M620
+mass M200
+mats M320
+maws M200
+megs M200
+mess M200
+mews M200
+mils M420
+miss M200
+mobs M120
+mods M320
+moms M520
+moos M200
+mops M120
+moss M200
+mows M200
+mugs M200
+mums M520
+muss M200
+
+malt M430
+mart M630
+mast M230
+matt M300
+meat M300
+meet M300
+melt M430
+mint M530
+mist M230
+mitt M300
+mixt M230
+moat M300
+molt M430
+moot M300
+most M230
+must M230
+mutt M300
+
+menu M500
+
+meow M000
+
+minx M520
+
+many M50
+
+nova N100
+
+numb N510
+
+narc N620
+
+need N300
+nerd N630
+
+name N500
+nape N100
+nave N100
+nice N200
+nine N500
+node N300
+none N500
+nope N100
+nose N200
+note N300
+nude N300
+nuke N200
+
+nigh N200
+nosh N200
+
+nark N620
+neck N200
+nick N200
+nook N200
+
+nail N400
+noel N400
+null N400
+
+norm N650
+
+neon N500
+noon N500
+noun N500
+
+near N600
+
+nabs N120
+nags N200
+naps N120
+nays N20
+negs N200
+nets N320
+news N200
+nibs N120
+nils N420
+nips N120
+nits N320
+nods N320
+noes N200
+nous N200
+nubs N120
+nuns N520
+nuts N320
+
+neat N300
+nest N230
+newt N300
+next N230
+
+nary N60
+navy N10
+nosy N20
+
+okra O260
+
+owed O300
+
+oboe O100
+ogle O240
+ogre O260
+once O520
+ooze O200
+
+oath O300
+ouch O200
+
+oink O520
+
+opal O140
+oral O640
+oval O140
+
+ovum O150
+
+omen O550
+open O150
+oven O150
+oxen O250
+
+oleo O400
+onto O530
+
+odor O360
+over O160
+
+oafs O120
+oaks O200
+oars O620
+oats O320
+odds O320
+odes O320
+offs O120
+ohms O520
+ohos O200
+oils O420
+ones O520
+onus O520
+oops O120
+opts O132
+opus O120
+orbs O612
+ores O620
+ours O620
+outs O320
+owes O200
+owls O420
+owns O520
+oxes O220
+
+obit O130
+omit O530
+oust O230
+
+onyx O52
+
+obey O10
+oily O40
+okay O20
+only O54
+orgy O62
+
+papa P100
+pica P200
+pita P300
+plea P400
+puma P500
+pupa P100
+
+paid P300
+peed P300
+pied P300
+pled P430
+plod P430
+pond P530
+prod P630
+
+pace P200
+page P200
+pale P400
+pane P500
+pare P600
+pate P300
+pave P100
+pike P200
+pile P400
+pine P500
+pipe P100
+poke P200
+pole P400
+pone P500
+pope P100
+pore P600
+pose P200
+puke P200
+pure P600
+pyre P60
+
+prof P610
+puff P100
+
+pang P520
+ping P520
+plug P420
+prig P620
+
+path P300
+pith P300
+pooh P000
+posh P200
+push P200
+
+pack P200
+park P620
+peak P200
+peck P200
+peek P200
+perk P620
+pick P200
+pink P520
+pock P200
+pork P620
+puck P200
+punk P520
+
+pail P400
+pall P400
+pawl P400
+peal P400
+peel P400
+pill P400
+poll P400
+pool P400
+pull P400
+purl P640
+
+palm P450
+perm P650
+plum P450
+poem P500
+pram P650
+prim P650
+prom P650
+
+pain P500
+pawn P500
+peon P500
+plan P450
+porn P650
+
+peso P200
+polo P400
+
+peep P100
+pimp P510
+plop P410
+pomp P510
+poop P100
+prep P610
+prop P610
+pulp P410
+pump P510
+
+pair P600
+pear P600
+peer P600
+pier P600
+poor P600
+pour P600
+purr P600
+
+pads P320
+pals P420
+pans P520
+paps P120
+pars P620
+pass P200
+pats P320
+paws P200
+pays P20
+peas P200
+pees P200
+pegs P200
+pens P520
+peps P120
+pets P320
+pews P200
+pies P200
+pigs P200
+pins P520
+pips P120
+piss P200
+pits P320
+plus P420
+pods P320
+pols P420
+pops P120
+pots P320
+pros P620
+prys P62
+pubs P120
+pugs P200
+puns P520
+pups P120
+puss P200
+puts P320
+
+pact P230
+pant P530
+part P630
+past P230
+peat P300
+pelt P430
+pent P530
+pert P630
+pest P230
+pint P530
+plot P430
+poet P300
+port P630
+post P230
+pout P300
+psst P230
+punt P530
+putt P300
+
+plow P400
+prow P600
+
+pity P30
+pixy P20
+play P40
+ploy P40
+poky P20
+pony P50
+posy P20
+pray P60
+prey P60
+puny P50
+
+quad Q300
+quid Q300
+
+quip Q100
+
+quit Q300
+
+quay Q00
+
+quiz Q200
+
+raga R200
+raja R200
+rhea R000
+
+raid R300
+read R300
+reed R300
+rend R530
+rind R530
+road R300
+rood R300
+rued R300
+
+race R200
+rage R200
+rake R200
+rape R100
+rare R600
+rate R300
+rave R100
+raze R200
+rice R200
+ride R300
+rife R100
+rile R400
+rime R500
+ripe R100
+rise R200
+rite R300
+rive R100
+robe R100
+rode R300
+role R400
+rope R100
+rose R200
+rote R300
+rove R100
+rube R100
+rude R300
+rule R400
+rune R500
+ruse R200
+
+reef R100
+riff R100
+roof R100
+ruff R100
+
+rang R520
+ring R520
+rung R520
+
+rash R200
+rich R200
+rush R200
+
+rack R200
+rank R520
+reek R200
+rick R200
+rink R520
+risk R200
+rock R200
+rook R200
+rusk R200
+
+rail R400
+real R400
+reel R400
+rill R400
+roil R400
+roll R400
+
+ream R500
+roam R500
+room R500
+
+rain R500
+rein R500
+roan R500
+ruin R500
+
+redo R300
+
+ramp R510
+rasp R210
+reap R100
+romp R510
+rump R510
+
+rear R600
+roar R600
+
+rags R200
+rams R520
+raps R120
+rats R320
+rays R20
+reds R320
+refs R120
+reps R120
+revs R120
+ribs R120
+rids R320
+rigs R200
+rims R520
+rips R120
+robs R120
+rods R320
+roes R200
+rots R320
+rows R200
+rubs R120
+rues R200
+rugs R200
+rums R520
+runs R520
+ruts R320
+
+raft R130
+rant R530
+rapt R130
+rent R530
+rest R230
+rift R130
+riot R300
+root R300
+rout R300
+runt R530
+rust R230
+
+racy R20
+rely R40
+rosy R20
+ruby R10
+
+razz R200
+
+saga S200
+sera S600
+soda S300
+sofa S100
+
+scab S210
+slab S410
+slob S410
+snob S510
+snub S510
+stab S310
+stub S310
+swab S100
+
+spec S120
+sync S52
+
+said S300
+sand S530
+scad S230
+scud S230
+seed S300
+send S530
+shad S300
+shed S300
+shod S300
+skid S230
+sled S430
+slid S430
+sold S430
+sped S130
+spud S130
+stud S330
+sued S300
+
+safe S100
+sage S200
+sake S200
+sale S400
+same S500
+sane S500
+sate S300
+save S100
+sere S600
+shoe S000
+side S300
+sine S500
+sire S600
+site S300
+size S200
+sloe S400
+slue S400
+sole S400
+some S500
+sore S600
+stye S30
+sure S600
+
+self S410
+serf S610
+surf S610
+
+sang S520
+shag S200
+sing S520
+slag S420
+slog S420
+slug S420
+smog S520
+smug S520
+snag S520
+snug S520
+song S520
+stag S320
+sung S520
+swag S200
+swig S200
+
+sash S200
+shah S000
+sigh S200
+such S200
+
+sari S600
+semi S500
+soli S400
+
+sack S200
+sank S520
+seek S200
+sick S200
+silk S420
+sink S520
+soak S200
+sock S200
+suck S200
+sulk S420
+sunk S520
+
+sail S400
+seal S400
+sell S400
+sill S400
+soil S400
+soul S400
+
+scam S250
+scum S250
+seam S500
+seem S500
+sham S500
+shim S500
+skim S250
+slam S450
+slim S450
+slum S450
+stem S350
+swam S500
+swim S500
+swum S500
+
+sawn S500
+scan S250
+seen S500
+sewn S500
+shin S500
+shun S500
+sign S250
+skin S250
+soon S500
+sown S500
+span S150
+spin S150
+spun S150
+stun S350
+swan S500
+
+sago S200
+shoo S000
+silo S400
+solo S400
+sumo S500
+
+seep S100
+ship S100
+shop S100
+skip S210
+slap S410
+slip S410
+slop S410
+snap S510
+snip S510
+soap S100
+soup S100
+step S310
+stop S310
+sump S510
+swap S100
+swop S100
+
+scar S260
+sear S600
+seer S600
+slur S460
+soar S600
+sour S600
+spar S160
+spur S160
+star S360
+stir S360
+
+sacs S200
+sags S200
+sans S520
+saps S120
+sass S200
+saws S200
+says S20
+seas S200
+secs S200
+sees S200
+sets S320
+sews S200
+shes S200
+sics S200
+sins S520
+sips S120
+sirs S620
+sits S320
+skis S220
+sobs S120
+sods S320
+sols S420
+sons S520
+sops S120
+sots S320
+sows S200
+spas S120
+subs S120
+suds S320
+sues S200
+sums S520
+suns S520
+sups S120
+
+salt S430
+scat S230
+seat S300
+sect S230
+sent S530
+shat S300
+shit S300
+shot S300
+shut S300
+sift S130
+silt S430
+skit S230
+slat S430
+slit S430
+slot S430
+slut S430
+smit S530
+smut S530
+snit S530
+snot S530
+soft S130
+soot S300
+sort S630
+spat S130
+spit S130
+spot S130
+suet S300
+suit S300
+swat S300
+
+scow S200
+show S000
+skew S200
+slaw S400
+slew S400
+slow S400
+snow S500
+spew S100
+stew S300
+stow S300
+
+sexy S20
+slay S40
+spay S10
+spry S16
+stay S30
+sway S00
+
+toga T200
+tuba T100
+tuna T500
+
+tomb T510
+
+talc T420
+
+teed T300
+tend T530
+thud T300
+tied T300
+toad T300
+toed T300
+told T430
+trod T630
+turd T630
+
+take T200
+tale T400
+tame T500
+tape T100
+tare T600
+thee T000
+tide T300
+tike T200
+tile T400
+time T500
+tine T500
+tire T600
+toge T200
+toke T200
+tome T500
+tone T500
+tore T600
+tote T300
+tree T600
+true T600
+tube T100
+tune T500
+twee T000
+tyke T20
+type T10
+
+tiff T100
+turf T610
+
+tang T520
+thug T200
+ting T520
+tong T520
+trig T620
+twig T200
+
+tush T200
+
+taxi T200
+
+tack T200
+talk T420
+tank T520
+task T200
+teak T200
+tick T200
+took T200
+trek T620
+tuck T200
+tusk T200
+
+tail T400
+tall T400
+teal T400
+tell T400
+till T400
+toil T400
+toll T400
+tool T400
+
+team T500
+teem T500
+term T650
+them T500
+tram T650
+trim T650
+
+teen T500
+tern T650
+than T500
+then T500
+thin T500
+torn T650
+town T500
+turn T650
+twin T500
+
+taco T200
+taro T600
+trio T600
+typo T10
+tyro T60
+
+tamp T510
+tarp T610
+temp T510
+trap T610
+trip T610
+
+tear T600
+tier T600
+tour T600
+tsar T260
+tzar T260
+
+tabs T120
+tads T320
+tags T200
+tams T520
+tans T520
+taps T120
+tars T620
+tats T320
+teas T200
+tees T200
+tels T420
+tens T520
+this
+thus T200
+tics T200
+ties T200
+tins T520
+tips T120
+tits T320
+toes T200
+togs T200
+toms T520
+tons T520
+tops T120
+tors T620
+toss T200
+tots T320
+tows T200
+toys T20
+tubs T120
+tugs T200
+tuns T520
+twos T200
+
+tact T230
+tart T630
+taut T300
+teat T300
+tent T530
+test T230
+text T230
+that
+tilt T430
+tint T530
+toot T300
+tort T630
+tost T230
+tout T300
+trot T630
+tuft T130
+twit T300
+
+thou T000
+thru T600
+tofu T100
+tutu T300
+
+thaw T000
+
+they
+tidy T30
+tiny T50
+tony T50
+tray T60
+troy T60
+
+ulna U450
+urea U600
+
+uric U620
+
+used U230
+
+urge U620
+
+upon U150
+
+undo U530
+unto U530
+
+user U260
+
+umps U512
+urns U652
+uses U220
+
+unit U530
+
+ugly U24
+
+visa V200
+viva V100
+
+verb V610
+
+veld V430
+vend V530
+vied V300
+void V300
+
+vale V400
+vane V500
+vase V200
+vibe V100
+vice V200
+vile V400
+vine V500
+vise V200
+vole V400
+vote V300
+
+veal V400
+veil V400
+vial V400
+viol V400
+
+vain V500
+vein V500
+
+veto V300
+
+vamp V510
+veep V100
+
+veer V600
+
+vans V520
+vats V320
+vets V320
+vies V200
+vows V200
+
+vast V230
+vent V530
+vest V230
+volt V430
+
+view V000
+
+vary V60
+very V60
+
+whoa W000
+
+womb W510
+
+wand W530
+ward W630
+weed W300
+weld W430
+wend W530
+wild W430
+wind W530
+wood W300
+word W630
+
+wade W300
+wage W200
+wake W200
+wale W400
+wane W500
+ware W600
+wave W100
+were
+wide W300
+wife W100
+wile W400
+wine W500
+wipe W100
+wire W600
+wise W200
+wite W300
+wive W100
+woke W200
+wore W600
+wove W100
+
+waif W100
+wolf W410
+woof W100
+
+wing W520
+
+wash W200
+wish W200
+with W300
+
+wadi W300
+
+walk W420
+weak W200
+week W200
+wick W200
+wink W520
+work W620
+
+wail W400
+wall W400
+weal W400
+well W400
+will W400
+wool W400
+
+warm W650
+wham W500
+whim W500
+whom W500
+worm W650
+
+warn W650
+wean W500
+when W500
+worn W650
+wren W650
+
+wino W500
+
+warp W610
+wasp W210
+weep W100
+whip W100
+wimp W510
+wisp W210
+wrap W610
+
+wear W600
+weer W600
+weir W600
+whir W600
+
+wads W320
+wags W200
+wars W620
+ways W20
+webs W120
+weds W320
+wees W200
+wens W520
+wets W320
+whys W200
+wigs W200
+wins W520
+wits W320
+woes W200
+woks W200
+woos W200
+wows W200
+wuss W200
+
+waft W130
+wait W300
+want W530
+wart W630
+watt W300
+weft W130
+welt W430
+went W530
+wept W130
+west W230
+what W300
+whet W300
+whit W300
+wilt W430
+wist W230
+wont W530
+wost W230
+writ W630
+
+whew W000
+
+wary W60
+wavy W10
+waxy W20
+whey W00
+wily W40
+wiry W60
+
+whiz W200
+
+yoga Y200
+
+yard Y630
+
+yoke Y200
+yore Y600
+yule Y400
+
+yeah Y000
+
+yeti Y300
+yogi Y200
+
+yank Y520
+yolk Y420
+yuck Y200
+
+yawl Y400
+yell Y400
+yowl Y400
+
+yarn Y650
+yawn Y500
+
+yelp Y410
+
+year Y600
+your Y600
+
+yaks Y200
+yams Y520
+yaps Y120
+yaws Y200
+yeas Y200
+yens Y520
+yeps Y120
+yews Y200
+yips Y120
+yous Y200
+yuks Y200
+yups Y120
+
+yest Y230
+
+zeta Z300
+
+zinc Z520
+
+zone Z500
+
+zing Z520
+
+zeal Z400
+
+zoom Z500
+
+zero Z600
+
+zaps Z120
+zeds Z320
+zips Z120
+zits Z320
+zoos Z200
+
+zest Z230
+
+zebu Z100
+
+zany Z50
